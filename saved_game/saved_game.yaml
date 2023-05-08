@@ -1,0 +1,12 @@
+---
+:@secret_word: import
+:@wrong_letters:
+- e
+:@correct_letters:
+- i
+-
+-
+-
+-
+-
+:@num_wrong_guesses: 2
